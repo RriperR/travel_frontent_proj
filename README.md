@@ -15,5 +15,5 @@
 
 **GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://pages.github.com/)
+* [Ссылка на GitHub Pages](https://rriperr.github.io/travel_frontent_proj/)
 
