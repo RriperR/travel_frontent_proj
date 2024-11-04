@@ -1,0 +1,10 @@
+.page{
+    font-family: 'Inter-Black', Arial, sans-serif;
+    
+    background-color: rgb(48, 45, 45);
+    color: white;
+    min-width: 320px;
+    margin: 0 auto;
+    padding: 28px 0 24px;
+
+}

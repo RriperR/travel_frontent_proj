@@ -1,0 +1,14 @@
+.footer__link{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    gap: 10px;
+    left: 48px;
+    font-size: 18px;
+}
+
+.footer__link:hover{
+    text-decoration: underline;
+    opacity: 70%;
+    transition: opacity 0.2s ease;
+}
